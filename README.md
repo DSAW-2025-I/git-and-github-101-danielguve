@@ -9,5 +9,8 @@
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
 - **Nombre completo:**
+- Daniel David Gabriel Gutierrez Velasco
 - **ID de la Universidad:**
+- 0000299354
 - **Usuario de Github:**
+  danielguve
